@@ -13,15 +13,17 @@ This project was developed to practice and demonstrate:
 - **Object-Oriented Programming** - Java design patterns and principles
 - **Database Integration** - JPA/Hibernate with MySQL
 - **REST API Development** - Spring MVC and REST controllers
-- **Layered Architecture** - Service-Repository-Controller pattern
+- **Layered Architecture** - Service-Repository-Controller pattern 
+##
 
-### **Backend**
+ **Backend**
 - Java 17 (Amazon Corretto 17.0.15_6)
 - Spring Boot 3.5.3
 - Spring Data JPA
 - Spring Security
 - Spring MVC
 - Gradle 8.14.3
+##
 
 ### **Frontend**
 - **Thymeleaf**
@@ -29,16 +31,18 @@ This project was developed to practice and demonstrate:
 - **CSS3**
 - **JavaScript**
 - **Bootstrap**
-- 
+##
   ### **Database**
 - MySQL
 - Hibernate ORM
 - JPA specifications
+##
 
 ### Running the application
 BUILD -> gradle clean build
 
 RUN -> java -jar ./build/libs/schoolapp.jar
+##
 
  ### Configuration
 ```properties
