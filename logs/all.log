@@ -1,0 +1,28 @@
+2025-10-16 16:13:41 INFO  - HV000001: Hibernate Validator 8.0.2.Final
+2025-10-16 16:13:41 INFO  - Starting SchoolAppApplication using Java 17.0.14 with PID 10700 (C:\Users\chris\IdeaProjects\schoolapp\build\classes\java\main started by chris in C:\Users\chris\IdeaProjects\schoolapp)
+2025-10-16 16:13:41 INFO  - The following 1 profile is active: "dev"
+2025-10-16 16:13:43 INFO  - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-10-16 16:13:43 INFO  - Finished Spring Data repository scanning in 77 ms. Found 5 JPA repository interfaces.
+2025-10-16 16:13:44 INFO  - Tomcat initialized with port 8080 (http)
+2025-10-16 16:13:44 INFO  - Root WebApplicationContext: initialization completed in 2801 ms
+2025-10-16 16:13:45 INFO  - HHH000412: Hibernate ORM core version 6.6.18.Final
+2025-10-16 16:13:45 INFO  - HHH000026: Second-level cache disabled
+2025-10-16 16:13:45 INFO  - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-10-16 16:13:46 INFO  - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-10-16 16:13:48 INFO  - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-10-16 16:13:48 INFO  - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-10-16 16:13:48 INFO  - Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-10-16 16:13:49 INFO  - Global AuthenticationManager configured with AuthenticationProvider bean with name authenticationProvider
+2025-10-16 16:13:49 INFO  - Adding welcome page template: index
+2025-10-16 16:13:49 WARN  - One of the patterns in [/, index.html] is missing a leading slash. This is discouraged; please include the leading slash in all your request matcher patterns. In future versions of Spring Security, leaving out the leading slash will result in an exception.
+2025-10-16 16:13:50 INFO  - Tomcat started on port 8080 (http) with context path '/'
+2025-10-16 16:13:50 INFO  - Started SchoolAppApplication in 9.401 seconds (process running for 9.968)
+2025-10-16 16:14:55 INFO  - Initializing Servlet 'dispatcherServlet'
+2025-10-16 16:14:55 INFO  - Completed initialization in 0 ms
